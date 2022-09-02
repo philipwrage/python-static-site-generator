@@ -9,4 +9,5 @@ def main(source: str = "content", dest: str = "dist"):
     }
     Site(**config).build()
 
+
 typer.run(main)
