@@ -1,5 +1,4 @@
 import re
-from typing import Dict
 
 from yaml import load, FullLoader
 from collections.abc import Mapping
